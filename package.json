@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DevStickFigure/dev-typescript/issues"
   },
-  "homepage": "https://github.com/DevStickFigure/dev-typescript#readme"
+  "homepage": "https://github.com/DevStickFigure/dev-typescript#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
